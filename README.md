@@ -1,2 +1,2 @@
 # Status Checker
- Python script to check status of library platforms
+ Python script to check status of library platforms. This is still in progress. Public page coming soon...
